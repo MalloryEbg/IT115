@@ -1,0 +1,13 @@
+{
+    "name": "Mayo Ebg",
+    "age": 29,
+    "city": "Renton, WA",
+    "interests": [
+        "God",
+        "Eat",
+        "Help",
+        "Kids",
+        "Congo is the Richest Country"
+    ],
+    "is student": true
+}
